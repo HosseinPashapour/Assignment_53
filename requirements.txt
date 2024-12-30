@@ -1,0 +1,11 @@
+numpy
+tensorflow
+opencv-python
+matplotlib
+scikit-learn
+pytesseract
+python-telegram
+pyTelegramBotAPI
+telebot
+Pillow
+python-dotenv
